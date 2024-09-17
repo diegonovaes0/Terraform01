@@ -7,7 +7,7 @@ variable "location" {
 variable "account_tier" {
   description = "Tier da storage account na azure"
   type        = string
-  default     = "standard"
+  default     = "Standard"
 }
 
 variable "account_replication_type" {
