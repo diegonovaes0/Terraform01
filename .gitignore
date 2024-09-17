@@ -8,3 +8,4 @@
 
 # Ignorar arquivos de plano do Terraform
 
+.terraform/
